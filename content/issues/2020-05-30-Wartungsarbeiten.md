@@ -1,8 +1,7 @@
 ---
-title: Wartungsarbeitemn
+title: Wartungsarbeiten
 date: 2020-05-30 10:00:00
-resolved: true
-resolvedWhen: 2020-05-31 23:00:00
+informational: true
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
