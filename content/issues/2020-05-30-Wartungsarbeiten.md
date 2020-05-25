@@ -5,7 +5,7 @@ informational: true
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
-  - Standort Berlin
+  - Interne Serversysteme
 section: issue
 ---
 
