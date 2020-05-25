@@ -139,7 +139,6 @@ params:
     - name: E-Mail
       category: Office 365
       description: Exchange Online
-      partial: custom/metrics
     - name: Skype for Business / Teams
       category: Office 365
       description: Skype for Business und Microsoft Teams      
