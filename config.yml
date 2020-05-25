@@ -124,7 +124,6 @@ params:
     - name: Standort Berlin
     - name: Office 365      
     - name: Alle Regionen
-      untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -140,7 +139,9 @@ params:
     - name: E-Mail
       category: Office 365
       description: Exchange Online
-
+    - name: Interne Serversysteme
+      category: Standort Berlin
+      description: Interne Serversysteme am Standort Berlin
   # What date format to use?
   #
   # Hugo formatting docs:
