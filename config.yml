@@ -139,9 +139,18 @@ params:
     - name: E-Mail
       category: Office 365
       description: Exchange Online
+    - name: Skype for Business / Teams
+      category: Office 365
+      description: Skype for Business und Microsoft Teams      
     - name: Interne Serversysteme
       category: Standort Berlin
       description: Interne Serversysteme am Standort Berlin
+    - name: Finanzbuchhaltung
+      category: Standort Berlin
+      description: Systeme der Finanzbuchhaltung
+    - name: Personalwirtschaft
+      category: Standort Berlin
+      description: Systeme der Personalwirtschaft       
   # What date format to use?
   #
   # Hugo formatting docs:
