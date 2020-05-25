@@ -160,8 +160,8 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 15:04
-  shortDateFormat: 15:04 — Jan 2
+  dateFormat: 2. January 2006 um 15:04
+  shortDateFormat: 15:04 — 2. Jan
 
   # What header design should we use?
   #
