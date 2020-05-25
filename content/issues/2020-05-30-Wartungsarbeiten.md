@@ -5,7 +5,7 @@ informational: true
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
-  - Interne Serversysteme
+  - Serversysteme
 section: issue
 ---
 
