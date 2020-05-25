@@ -139,6 +139,7 @@ params:
     - name: E-Mail
       category: Office 365
       description: Exchange Online
+      partial: custom/metrics
     - name: Skype for Business / Teams
       category: Office 365
       description: Skype for Business und Microsoft Teams      
@@ -214,7 +215,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Wir beobachten kontinuierlich die Systeme und melden Updates zu bekannte Störungen auf dieser Seite.
 
   # Tabs on homepage
   # Uncomment to enable.
