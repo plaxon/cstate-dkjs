@@ -10,4 +10,4 @@ affected:
 section: issue
 ---
 
-*Störung* - Die Zeiterfassung ist derzeit im Mitarbeiterportal nicht möglich. Es wird eine Fehlermeldung ausgegeben. Die Störung wurde bereits beim zuständigen Dienstleister gemeldet und wir warten auf eine Rückmldung. {{< track "2020-05-25 10:00:00" >}}
+*Störung* - Die Zeiterfassung ist derzeit im Mitarbeiterportal nicht möglich. Es wird eine Fehlermeldung ausgegeben. Die Störung wurde bereits beim zuständigen Dienstleister gemeldet und wir warten auf eine Rückmeldung. {{< track "2020-05-25 10:00:00" >}}
