@@ -132,7 +132,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: Mitarbeiterportal
-      category: Alle Regionen
+      category: Allgemeine Dienste
     - name: Sharepoint
       category: Office 365
     - name: E-Mail
