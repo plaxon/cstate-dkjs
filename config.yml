@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: DKJS IT System Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -64,7 +64,7 @@ buildFuture: true
 #
 # See:  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 # Also: https://www.w3schools.com/tags/ref_language_codes.asp
-languageCode: en
+languageCode: de
 
 # What translation file should cState use?
 # You can also define whether missing
@@ -78,7 +78,7 @@ languageCode: en
 # than English! When tested with Lithuanian,
 # it would add unnecesary placeholders to
 # values that were intentionally empty.
-defaultContentLanguage: en
+defaultContentLanguage: de
 
 # What is the hostname or path to the root?
 # Where is the site hosted?
@@ -90,7 +90,7 @@ defaultContentLanguage: en
 # localhost should automatically work.
 #
 # Example: https://status.example.com/
-baseURL: https://cstate.mnts.lt
+baseURL: https://status-dkjs.plaxon.consulting
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -121,11 +121,9 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: East Coast      
-    - name: Uncategorized
+    - name: Standort Berlin
+    - name: Office 365      
+    - name: Alle Regionen
       untitled: true
 
   # These are your systems. Change them to
@@ -134,16 +132,14 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: East Coast
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: Mitarbeiterportal
+      category: Alle Regionen
+    - name: Sharepoint
+      category: Office 365
+      description: Sharepoint Online
+    - name: E-Mail
+      category: Office 365
+      description: Exchange Online
 
   # What date format to use?
   #
@@ -154,7 +150,7 @@ params:
   #
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: January 2, 2006 at 3:04 PM
+  dateFormat: January 2, 2006 at 15:04
   shortDateFormat: 15:04 — Jan 2
 
   # What header design should we use?
@@ -192,7 +188,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
