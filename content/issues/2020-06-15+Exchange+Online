@@ -1,0 +1,13 @@
+---
+title: störung beim Abruf von E-Mails
+date: 2020-06-15 15:30:00
+resolved: false
+# resolvedWhen: 2020-05-26 15:00:00
+# Possible severity levels: down, disrupted, notice
+severity: notice
+affected:
+  - E-Mail
+section: issue
+---
+
+*Teilweise gestört* - Microsoft meldet eine Störung beim Abrufen von E-Mails bzw. der Verbindung von Outlook zu den E-Mailservern von Microsoft. 
