@@ -1,8 +1,8 @@
 ---
 title: Störung beim Abruf von E-Mails
 date: 2020-06-15 15:30:00
-resolved: false
-# resolvedWhen: 2020-05-26 15:00:00
+resolved: true
+resolvedWhen: 2020-06-15 16:30:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
