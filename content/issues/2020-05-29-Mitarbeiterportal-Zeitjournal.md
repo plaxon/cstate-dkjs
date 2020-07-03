@@ -10,8 +10,7 @@ affected:
 section: issue
 ---
 
-*Update* - **Die Störung wurde durch das aktuelle Update des Herstellers behoben.** {{< track "2020-07-03 14´
-11:30:00" >}}
+*Update* - **Die Störung wurde durch das aktuelle Update des Herstellers behoben.** {{< track "2020-07-03 11:30:00" >}}
 
 *Update* - Diese Störung wird voraussichtlich mit einem Update Mitte Juli vom Dienstleister der Personalwirtschaftsoftware behoben. {{< track "2020-06-10 14:00:00" >}}
 
