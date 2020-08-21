@@ -141,7 +141,9 @@ params:
     - name: Skype for Business
       category: Office 365
     - name: Microsoft Teams
-      category: Office 365      
+      category: Office 365
+    - name: OneDrive
+      category: Office 365            
     - name: Serversysteme
       category: Standort Berlin
     - name: Finanzbuchhaltung
