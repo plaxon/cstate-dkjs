@@ -1,8 +1,8 @@
 ---
 title: Störung bei der Anmeldung in OneDrive for Business
 date: 2020-08-21 08:30:00
-resolved: false
-# resolvedWhen: 2020-06-22 19:30:00
+resolved: true
+resolvedWhen: 2020-08-21 19:30:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
