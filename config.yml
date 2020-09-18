@@ -151,7 +151,10 @@ params:
       description: Systeme der Finanzbuchhaltung
     - name: Personalwirtschaft
       category: Standort Berlin
-      description: Systeme der Personalwirtschaft       
+      description: Systeme der Personalwirtschaft 
+    - name: VPN
+      category: Standort Berlin
+      description: VPN Einwahl       
   # What date format to use?
   #
   # Hugo formatting docs:
