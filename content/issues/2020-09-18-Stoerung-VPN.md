@@ -1,5 +1,5 @@
 ---
-title: Störung bei der VPN Einwahlt
+title: Störung bei der VPN Einwahl und dem Mitarbeiterportal
 date: 2020-09-18 10:00:00
 resolved: false
 #resolvedWhen: 2020-08-21 19:30:00
