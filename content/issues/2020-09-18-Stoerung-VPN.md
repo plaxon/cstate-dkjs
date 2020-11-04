@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-*VPN Einwahl sowie Mitarbeiterportal gestört* - Die Internetleitung für die Einwahl per VPN Verbindung sowie für das Mitarbeiterportal und das Profilupdate ist derzeit gestört. 
+*VPN Einwahl sowie Mitarbeiterportal gestört* - Die Internetleitung für die Einwahl per VPN Verbindung sowie für das Mitarbeiterportal und das Profilupdate ist derzeit gestört. Die Entstörung durch die Telekom ist für den 05.11.2020 vormittags geplant.
