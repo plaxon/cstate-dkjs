@@ -12,4 +12,3 @@ section: issue
 ---
 
 *VPN Einwahl sowie Mitarbeiterportal gestört* - Die Internetleitung für die Einwahl per VPN Verbindung sowie für das Mitarbeiterportal und das Profilupdate ist derzeit gestört. 
-# Eine Störungsmeldung wurde beim zuständigen Internetanbieter gemeldet. {{< track "2020-11-04 07:00:00" >}}
