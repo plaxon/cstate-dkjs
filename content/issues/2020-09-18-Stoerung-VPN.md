@@ -1,7 +1,7 @@
 ---
 title: Störung bei der VPN Einwahl und dem Mitarbeiterportal
 date: 2020-11-04 00:05:50
-resolved: false
+resolved: true
 resolvedWhen: 2020-11-05 11:30:00
 # Possible severity levels: down, disrupted, notice
 severity: down
