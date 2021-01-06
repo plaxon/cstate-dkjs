@@ -154,7 +154,10 @@ params:
       description: Systeme der Personalwirtschaft 
     - name: VPN
       category: Standort Berlin
-      description: VPN Einwahl       
+      description: VPN Einwahl
+    - name: WLAN Berlin
+      category: Standort Berlin
+      description: WLAN Verbindungen am Standort Berlin       
   # What date format to use?
   #
   # Hugo formatting docs:
