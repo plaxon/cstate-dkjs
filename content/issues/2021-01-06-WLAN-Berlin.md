@@ -1,8 +1,8 @@
 ---
 title: Störung der WLAN Verbindungen am Standort Berlin
 date: 2021-01-06 10:00:00
-resolved: false
-resolvedWhen: 2021-01-07 11:30:00
+resolved: true
+resolvedWhen: 2021-01-06 08:30:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
