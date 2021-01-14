@@ -6,7 +6,7 @@ resolvedWhen: 2021-01-14 12:50:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 affected:
-  - WLAN Berlin
+  - Internet Berlin
 section: issue
 ---
 
