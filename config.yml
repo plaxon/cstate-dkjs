@@ -157,7 +157,10 @@ params:
       description: VPN Einwahl
     - name: WLAN Berlin
       category: Standort Berlin
-      description: WLAN Verbindungen am Standort Berlin       
+      description: WLAN Verbindungen am Standort Berlin
+    - name: Internet Berlin
+      category: Standort Berlin
+      description: Internet Verbindungen am Standort Berlin    
   # What date format to use?
   #
   # Hugo formatting docs:
