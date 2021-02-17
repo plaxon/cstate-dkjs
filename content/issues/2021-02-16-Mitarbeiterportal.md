@@ -10,4 +10,4 @@ affected:
 section: issue
 ---
 
-*Störung* - Das Mitarbeiterportal ist aufgrund eines fehlenden Updates derzeit nicht nutzbar. Wir arbeiten mit dem Hersteller an einer schnellen Lösung des Problems.
+*Störung* - Das Mitarbeiterportal ist aufgrund eines fehlenden Updates derzeit nicht nutzbar. Wir arbeiten mit dem Hersteller an einer schnellen Lösung des Problems. Updates zum Stand werden hier veröffentlicht.
